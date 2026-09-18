@@ -1,0 +1,11 @@
+{
+    "name": "Oguz App",
+    "short_name": "Oguz",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#0175C2",
+    "theme_color": "#0175C2",
+    "description": "Oguz Web App",
+    "orientation": "portrait-primary",
+    "prefer_related_applications": false
+}
